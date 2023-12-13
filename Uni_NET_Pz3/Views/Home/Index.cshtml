@@ -1,0 +1,25 @@
+@model dynamic
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<div style="width: 90%; margin: 0 auto" >
+    <h2 style="color: white">Random Media Giver</h2>
+    
+    @* TODO: run algorithm that already exist // Media contoller -> Index *@
+    <button id="rand_media" onclick="start_gallery()">Start rand media</button>
+    
+    @* TODO: add possibility upload file with file selector *@
+    <h3 style="color: white">Upload New</h3>
+    <input id="file" name="file" type="file" style="color: white" onclick="upload_file"/>
+    <button id="upload_file" onclick="upload_file()">Upload</button>
+    
+    <h2 style="color: white">Галерея</h2>
+    @* <div id="gallery" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start; justify-content: flex-start;"> *@
+
+    <div style="display: flex; justify-content: flex-start; flex-wrap: wrap;" id="gallery"></div>
+</div>
+
+<script src="js/main.js"></script>

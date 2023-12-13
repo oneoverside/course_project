@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Uni_NET_Pz3.props" />
+</Project>

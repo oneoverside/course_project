@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Pages\" />
+      <Folder Include="wwwroot\Home\images\deleted\" />
+      <Folder Include="wwwroot\Home\videos\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\images\007_tumblr_pj62mq6BVY1s2jvw1o3_1280.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\011_003_DevilHS_645582_LoQO_Captured_Opala.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\017_009_DevilHS_641553_Fillia_Arena_2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\023_015_005_DevilHS_623808_Becca_Tentacled.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\026_018_008_DevilHS_620521_Tikaana_and_Alexis_Late_Wet_Evening.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\033_025_015_DevilHS_612067.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\039_031_021_DevilHS_610151_2_2.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\069_061_051_DevilHS_570606_Tomb_Raiding_2_2.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\100_092_082_DevilHS_530362.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\119_111_101_DevilHS_502358.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\185_177_167_DevilHS_379410.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\233_225_215_DevilHS_291927.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\250_242_232_DevilHS_244938.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\256_248_238_DevilHS_240265.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\317_309_299_DevilHS_141247.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\391_383_thumb.dfphp.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\394_386_thumb.hjphp.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\452_444_tumblr_or4ts7Zqb81s2jvw1o2_1280.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\644_636_tumblr_p8swhjYFMH1s2jvw1o1_1280.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\665_657_tumblr_pd7mr2XIgL1s2jvw1o2_r1_1280.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\667_659_tumblr_pd7mr2XIgL1s2jvw1o4_r1_1280.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\report_28-11-23_12-15-07_page-0001(1).jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\report_28-11-23_12-15-07_page-0001(2).jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\report_28-11-23_12-15-07_page-0001(3).jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\images\report_28-11-23_12-15-07_page-0001.jpg" />
+    </ItemGroup>
+    
+</Project>
