@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Pages\" />
       <Folder Include="wwwroot\Home\images\deleted\" />
       <Folder Include="wwwroot\Home\videos\" />
     </ItemGroup>
