@@ -1,9 +1,12 @@
 ﻿document.addEventListener('DOMContentLoaded', function (event) {
+    console.log(12450)
     $.ajax({
         url: '/Home/GetAll/',
         type: 'GET',
         success: function (data) {
+            console.log(1)
             for(let i = 0; i < data.length; i++){
+                console.log(2)
                 let imageUrl = data[i];
                 console.log(imageUrl)
                 const img = document.createElement('img');

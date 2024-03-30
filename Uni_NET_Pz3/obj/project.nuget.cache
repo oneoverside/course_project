@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wjxpRxLe4j30SIdCZv0GvxYUTTzZAnRc1msxdjtbSwO6kvrrzjXH9rdou5vziQn5qLRl2d7wgV8Le28DgEq6UQ==",
+  "dgSpecHash": "swIedgLqhCPfqoTU+Xc6KOc5PL7+0Epfk3zhnXZuXjWH1EWRJb0Mt9tB3uwYaJnAp2xLqJLDaUTGxHCD6lyzFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\Uni_NET_Pz3.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.2.24128.4.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.2.24128.4.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.relational.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.sqlite.9.0.0-preview.2.24128.4.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.sqlite.core.9.0.0-preview.2.24128.4.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.caching.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.2.24128.5\\microsoft.extensions.caching.memory.9.0.0-preview.2.24128.5.nupkg.sha512",
@@ -20,7 +21,10 @@
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.logging.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.2.24128.5\\microsoft.extensions.options.9.0.0-preview.2.24128.5.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.2.24128.5\\microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.7\\sqlitepclraw.bundle_e_sqlite3.2.1.7.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\sqlitepclraw.core\\2.1.7\\sqlitepclraw.core.2.1.7.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.7\\sqlitepclraw.lib.e_sqlite3.2.1.7.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.7\\sqlitepclraw.provider.e_sqlite3.2.1.7.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\system.text.encodings.web\\9.0.0-preview.2.24128.5\\system.text.encodings.web.9.0.0-preview.2.24128.5.nupkg.sha512",
     "C:\\Users\\oneov\\.nuget\\packages\\system.text.json\\9.0.0-preview.2.24128.5\\system.text.json.9.0.0-preview.2.24128.5.nupkg.sha512"

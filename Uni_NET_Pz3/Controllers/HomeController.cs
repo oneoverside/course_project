@@ -11,7 +11,7 @@ public class HomeController : Controller
         this._mediaGiver = mediaGiver;
     }
 
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
         return this.View();
     }

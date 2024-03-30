@@ -75,7 +75,6 @@ public class MediaGiver
         this._dbContext.Contents.Add(new Content
         {
             Path = newFilePath,
-            Id = Guid.NewGuid(),
             Name = file.FileName
         });
 
