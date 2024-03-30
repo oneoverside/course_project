@@ -38,5 +38,9 @@
       <_ContentIncludedByDefault Remove="wwwroot\images\report_28-11-23_12-15-07_page-0001(3).jpg" />
       <_ContentIncludedByDefault Remove="wwwroot\images\report_28-11-23_12-15-07_page-0001.jpg" />
     </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="9.0.0-preview.2.24128.4" />
+    </ItemGroup>
     
 </Project>
