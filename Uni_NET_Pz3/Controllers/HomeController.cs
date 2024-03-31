@@ -21,14 +21,15 @@ public class HomeController : Controller
         return this.View("Gallery", model: this._mediaGiver.NextImage());
     }
     
-    public IActionResult NextImage()
+    public async Task<IActionResult> NextImage()
     {
-        return this.Ok(this._mediaGiver.NextImage());
+        var x = await this._mediaGiver.NextImage();
+        return this.Ok(x);
     }
     
-    public IActionResult DelImage(string image)
+    public async Task<IActionResult> DelImage(string image)
     {
-        return this.Ok(this._mediaGiver.DelImage(image));
+        return this.Ok(await this._mediaGiver.DelImage(image));
     }
     
     public IActionResult PreviousImage()
@@ -36,9 +37,9 @@ public class HomeController : Controller
         return this.Ok(this._mediaGiver.PreviousImage());
     }
     
-    public IActionResult GetAll()
+    public async Task<IActionResult> GetAll()
     {
-        return this.Ok(this._mediaGiver.GetAll());
+        return this.Ok(await this._mediaGiver.GetAll());
     }
     
     [HttpPost]
@@ -47,5 +48,4 @@ public class HomeController : Controller
         await this._mediaGiver.AddImage(file);
         return this.Ok();
     }
-    
 }

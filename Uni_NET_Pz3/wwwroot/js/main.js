@@ -8,27 +8,13 @@ document.addEventListener('keydown', function (event) {
             type: 'GET',
             success: function (data) {
                 if(data.type === "image") {
+                    console.log(data.path)
                     const img = $('#img');
                     const video = $('#video');
                     img.attr('src', data.path);
                     img.show();
                     video.hide();
                     adjustImageSize()
-                }
-                else {
-                    const videoSrc = document.getElementById('videoSrc');
-                    videoSrc.setAttribute('src', data.path);
-
-                    const video = document.getElementById('video');
-                    video.pause();
-                    video.load();
-                    video.play();
-
-                    const videoJq = $('#video');
-                    videoJq.show();
-
-                    const img = $('#img');
-                    img.hide();
                 }
             }
         });

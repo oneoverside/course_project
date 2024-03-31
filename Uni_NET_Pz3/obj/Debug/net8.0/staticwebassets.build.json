@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fY+8OYsSj2DSxdgJ/ZL0hJ9KSqNsbM/3DPAfEU9yG/E=",
+  "Hash": "QyQzEmD31YcbExNdAOi82fvaR+2nUTCaDOwxw3AxS00=",
   "Source": "Uni_NET_Pz3",
   "BasePath": "_content/Uni_NET_Pz3",
   "Mode": "Default",
@@ -112,12 +112,12 @@
       "OriginalItemSpec": "wwwroot\\Home\\images\\1200x675.jpg"
     },
     {
-      "Identity": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\Home\\images\\deleted\\re.jpg",
+      "Identity": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\Home\\images\\deleted\\fb-share(1).jpg",
       "SourceId": "Uni_NET_Pz3",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\",
       "BasePath": "_content/Uni_NET_Pz3",
-      "RelativePath": "Home/images/deleted/re.jpg",
+      "RelativePath": "Home/images/deleted/fb-share(1).jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +128,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Home\\images\\deleted\\re.jpg"
+      "OriginalItemSpec": "wwwroot\\Home\\images\\deleted\\fb-share(1).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\Home\\images\\deleted\\SC2-10thAnniversary_CampaignAchiev_HeartOfTheSwarm.jpg",
+      "SourceId": "Uni_NET_Pz3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\",
+      "BasePath": "_content/Uni_NET_Pz3",
+      "RelativePath": "Home/images/deleted/SC2-10thAnniversary_CampaignAchiev_HeartOfTheSwarm.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home\\images\\deleted\\SC2-10thAnniversary_CampaignAchiev_HeartOfTheSwarm.jpg"
     },
     {
       "Identity": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\Home\\images\\fb-share(1).jpg",
@@ -167,25 +186,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Home\\images\\SC2-10thAnniversary_CampaignAchiev_HeartOfTheSwarm.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\Home\\images\\Без названия.jpg",
-      "SourceId": "Uni_NET_Pz3",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\",
-      "BasePath": "_content/Uni_NET_Pz3",
-      "RelativePath": "Home/images/Без названия.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Home\\images\\Без названия.jpg"
     },
     {
       "Identity": "C:\\Users\\oneov\\RiderProjects\\UNI_4_.NET_PZ3-\\Uni_NET_Pz3\\wwwroot\\js\\main.js",
